@@ -11,7 +11,7 @@ void verde1(int verde){//Funcion para la luz verde
 			system("color  A0");//color de fondo verde 
 			}
     
-		system("cls");//Limpia la pantalla
+		system("cls");
 }
 void amarillo1(int amarillo){ //Funcion de la luz Amarilla
 	int j;
